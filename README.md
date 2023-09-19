@@ -1,4 +1,4 @@
-# PS-OCT-Codes-for-Enhanced-Peripheral-Nerve-Regeneration-by-Mechano-electrical-Stimulation
+# PS-OCT Codes for "Enhanced Peripheral Nerve Regeneration by Mechano-electrical Stimulation"
 
 This repository contains the MATLAB scripts used for processing the PS-OCT data used in the study titled 'Enhanced Peripheral Nerve Regeneration by Mechano-electrical Stimulation'.
 
